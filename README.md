@@ -1,2 +1,2 @@
 # CLI-Number-Guessing-Game
-It's a CLI Number Guessing Game, created with TypeScript, NodeJS &amp; Inquirer.
+This is a CLI based Number Guessing Game, created with TypeScript, Node.js and NPM Package Inquirer.
