@@ -1,7 +1,7 @@
 {
   "name": "sowa1ba07_num_guessing_game",
   "version": "1.0.0",
-  "description": "This is a cli number guessing game with Typescript, Node.js and Inquirer.",
+  "description": "This is a cli based number guessing game with Typescript, Node.js and Inquirer package.",
   "main": "index.js",
   "type": "module",
   "publishConfig": {
